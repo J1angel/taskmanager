@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Tasks",
+    "name": "sidebar.dashboard",
+    "is_heading": false,
+    "is_active": false,
+    "link": "/dashboard",
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-home-8-line"
+  }
+
+]
